@@ -1,0 +1,5 @@
+{
+  "name": "Negotiation Assistant",
+  "description": "An AI-powered tool to analyze negotiation texts and suggest optimal strategies based on trust, importance, and urgency.",
+  "requestFramePermissions": []
+}
